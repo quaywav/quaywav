@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there 
 
-<!--
+
+# Hi, my name is Laeisha Adams and Im studying Interactive Design at Valencia College.
+## I my fav classes so far is Web Essentials and Graphic Design.
+## This my first time attemping Java Programing.
 **quaywav/quaywav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
